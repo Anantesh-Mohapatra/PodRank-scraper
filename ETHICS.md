@@ -1,4 +1,4 @@
-Purpose of Data Collection: The primary purpose of collecting data from Chartable is to retrieve publicly available podcast rankings in various categories. 
+Purpose of Data Collection: The primary purpose of collecting data from Chartable is to retrieve publicly available podcast rankings in various categories. This is strictly for education/research purposes only.
 
 Data Sources: Data is collected from Chartable. The data collected includes podcast titles, rankings, and links.
 
