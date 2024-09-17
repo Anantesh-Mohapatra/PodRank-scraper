@@ -7,3 +7,5 @@ Limiting Scraping Frequency: To avoid disrupting the website's normal operations
 No Bypassing of Password Protection: No attempts are made to bypass password protection or any form of security mechanism designed to restrict access to certain parts of the website. Only public, non-restricted information is scraped.
 
 No Collection of Personally Identifiable Information: We do not collect any personally identifiable information, such as emails, IPs, or any data that could be used to identify individuals.
+
+Robots.txt: This script respects the restrictions set by the site's robots.txt file.
