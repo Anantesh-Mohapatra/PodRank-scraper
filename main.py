@@ -1,3 +1,5 @@
+# Team: Anantesh Mohapatra & Rinna Zhang
+
 # Import functions and libraries
 import requests
 from bs4 import BeautifulSoup
